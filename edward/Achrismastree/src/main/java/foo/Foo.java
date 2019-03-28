@@ -53,5 +53,7 @@ public class Foo {
         System.out.println ("         ||||          ");
         System.out.println ("         ||||          ");
 
+        System.out.println("Potato");
+
     }
 }

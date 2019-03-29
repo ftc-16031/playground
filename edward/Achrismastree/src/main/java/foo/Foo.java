@@ -69,6 +69,7 @@ public class Foo {
             y++;
             if(x == y){
                 System.out.println("STOP!!!");
+                System.out.println("This looped " + x + " times");
                 return;
             } else{
                 System.out.println("LOOP!!!!!");
